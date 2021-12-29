@@ -145,3 +145,7 @@ Dataset containing 1951 observations (unique disease outbreaks), occurred in a t
 "DONs": DONs reporting the outbreak. For the case of the Coronavirus, the source is the Coronavirus Dashboard.
 
 "Definition": Definition of the disease according to the ICD-11.
+
+### "ESDAoutbreaks.R"
+#### Description: 
+R-code to replicate the exploratory spatial data analysis (ESDA).
