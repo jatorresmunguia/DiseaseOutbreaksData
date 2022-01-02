@@ -149,3 +149,21 @@ Dataset containing 1951 observations (unique disease outbreaks), occurred in a t
 ### "ESDAoutbreaks.R"
 #### Description: 
 R-code to replicate the exploratory spatial data analysis (ESDA).
+
+### "GeoOutbreaks.RData"
+#### Description: 
+Dataset containing the total number of unique disease outbreaks per country with geo-spatial information.  
+#### Data records:
+"iso3": Alpha-3 country code from the ISO 3166.
+
+"region": Region of the country.
+
+"continent": Continent of the country.
+
+"name": Name of the country where the outbreak occurred.
+
+"french_shor": Name of the country in French.
+
+"freq": Total frequency of disease outbreaks.
+
+"geometry": Geographic coordinates of the country.
