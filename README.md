@@ -22,7 +22,7 @@ Dataset containing the raw data from 2700 DONs as extracted from www.who.int/eme
 
 ### "DONsOutbreaks.RData" (or alternatively "DONsOutbreaks.csv")
 #### Description: 
-Dataset containing 1510 observations with unique outbreaks, covering a total of 215 countries and territories, and 69 different infectious diseases. An unique outbreak happens when a country has at least one case of a specific disease during a particular year. Thus, a specific country cannot have two outbreaks related to the same disease in the same year (but can have more than one outbreak of different diseases in the same year). Moreover, a country can only have more than one outbreaks of the same disease, if and only if they refer to different years.
+Dataset containing 1510 observations with unique outbreaks, covering a total of 215 countries and territories, and 69 different infectious diseases. A unique outbreak happens when a country has at least one case of a specific disease during a particular year. Thus, a specific country cannot have two outbreaks related to the same disease in the same year (but can have more than one outbreak of different diseases in the same year). Moreover, a country can only have more than one outbreaks of the same disease, if and only if they refer to different years.
 #### Data records:
 "Country": Name of the country where the outbreak occurred.
 
