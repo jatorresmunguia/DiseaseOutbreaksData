@@ -106,7 +106,7 @@ Dataset containing 441 observations occurred since 2020, covering a total of 222
 
 ### "Outbreaks.RData" (or alternatively "Outbreaks.csv")
 #### Description: 
-Dataset containing 1951 observations (unique disease outbreaks), occurred in a total of 233 countries and territories from 1996, and associated to 70 different infectious diseases. An unique outbreak happens when a country has at least one case of a specific disease during a particular year. 
+Dataset containing 1951 observations (unique disease outbreaks), occurred in a total of 233 countries and territories from 1996, and associated to 70 different infectious diseases. A unique outbreak happens when a country has at least one case of a specific disease during a particular year. 
 #### Data records:
 "Country": Name of the country where the outbreak occurred.
 
